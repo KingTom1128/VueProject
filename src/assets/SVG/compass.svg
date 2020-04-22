@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="531.824" height="525.458" viewBox="0 0 531.824 525.458">
+  <g id="组件_1_1" data-name="组件 1 – 1" transform="translate(150 136.831)">
+    <ellipse id="椭圆_1" data-name="椭圆 1" cx="115.912" cy="112.729" rx="115.912" ry="112.729" transform="translate(0 13.169)" fill="#595757" opacity="0.42"/>
+    <circle id="椭圆_2" data-name="椭圆 2" cx="112.729" cy="112.729" r="112.729" transform="translate(12.621)" fill="#fff"/>
+    <circle id="椭圆_3" data-name="椭圆 3" cx="60.993" cy="60.993" r="60.993" transform="translate(62.705 48.875)" fill="none" stroke="#898989" stroke-miterlimit="10" stroke-width="2"/>
+    <path id="路径_1" data-name="路径 1" d="M5240.653,2229.8l26.111,99.56h-52.222Z" transform="translate(-5115.304 -2216.633)" fill="#c30d23"/>
+    <path id="路径_2" data-name="路径 2" d="M5240.653,2428.922l-26.111-99.56h52.222Z" transform="translate(-5115.304 -2216.633)" fill="#1d2088"/>
+  </g>
+</svg>
